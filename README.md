@@ -1,2 +1,2 @@
 # RacingGame
-A simple cars racing game in Java
+Cars Racing game developed in Java
